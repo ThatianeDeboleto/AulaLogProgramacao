@@ -1,0 +1,14 @@
+2-Qual função deve estar presente em todos os programas em C?
+R:A função main()
+
+3. Como devem terminar todas as instruções em C?
+R: Com ponto e virgula ;
+
+4. Como é delimitado um bloco de comandos em C?
+R: Um programa é estruturado em bloco de codigo. Blocos nada mais são que conjuntos de instruções, e devem ser delimitados com chaves ({...})
+
+5. A função printf é parte integrante da linguagem C?
+R: É a parte de um conjunto de função pré-definidas armazenadas em uma biblioteca padrão de rotinas da linguagem C.
+
+6. Para que serve a linha #include <stdio.h> de um programa?
+R: A linha #include <stdio. h> diz ao compilador que ele deve incluir o arquivo-cabeçalho stdio. h. Neste arquivo existem declarações de funções úteis para entrada e saída de dados (std = standard, padrão em inglês; io = Input/Output, entrada e saída ==> stdio = Entrada e saída padronizadas)
